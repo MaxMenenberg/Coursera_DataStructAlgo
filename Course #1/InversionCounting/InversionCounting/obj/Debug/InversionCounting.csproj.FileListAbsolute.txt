@@ -1,0 +1,6 @@
+C:\Users\Max\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #1\InversionCounting\InversionCounting\bin\Debug\InversionCounting.exe.config
+C:\Users\Max\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #1\InversionCounting\InversionCounting\bin\Debug\InversionCounting.exe
+C:\Users\Max\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #1\InversionCounting\InversionCounting\bin\Debug\InversionCounting.pdb
+C:\Users\Max\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #1\InversionCounting\InversionCounting\obj\Debug\InversionCounting.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #1\InversionCounting\InversionCounting\obj\Debug\InversionCounting.exe
+C:\Users\Max\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #1\InversionCounting\InversionCounting\obj\Debug\InversionCounting.pdb
