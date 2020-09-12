@@ -1,0 +1,6 @@
+C:\Users\Max\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #1\QuickSort\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\Max\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #1\QuickSort\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\Max\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #1\QuickSort\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Max\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #1\QuickSort\QuickSort\QuickSort\obj\Debug\QuickSort.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #1\QuickSort\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\Max\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #1\QuickSort\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
