@@ -1,0 +1,6 @@
+C:\Users\Max\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #1\Graphs\GraphClass\GraphClass\bin\Debug\GraphClass.exe.config
+C:\Users\Max\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #1\Graphs\GraphClass\GraphClass\bin\Debug\GraphClass.exe
+C:\Users\Max\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #1\Graphs\GraphClass\GraphClass\bin\Debug\GraphClass.pdb
+C:\Users\Max\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #1\Graphs\GraphClass\GraphClass\obj\Debug\GraphClass.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #1\Graphs\GraphClass\GraphClass\obj\Debug\GraphClass.exe
+C:\Users\Max\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #1\Graphs\GraphClass\GraphClass\obj\Debug\GraphClass.pdb
