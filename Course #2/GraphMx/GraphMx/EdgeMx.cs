@@ -55,7 +55,7 @@ namespace GraphMx
             {
                 return 1;
             }
-            EdgeMx e = obj as EdgeMx;
+            EdgeMx<T> e = obj as EdgeMx<T>;
             return this.identifier.CompareTo(e.identifier);
         }
     }

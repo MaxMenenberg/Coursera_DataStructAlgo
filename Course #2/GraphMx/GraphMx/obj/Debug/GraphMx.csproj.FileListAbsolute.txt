@@ -1,0 +1,7 @@
+C:\Users\maxwe\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #2\GraphMx\GraphMx\bin\Debug\GraphMx.exe.config
+C:\Users\maxwe\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #2\GraphMx\GraphMx\bin\Debug\GraphMx.exe
+C:\Users\maxwe\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #2\GraphMx\GraphMx\bin\Debug\GraphMx.pdb
+C:\Users\maxwe\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #2\GraphMx\GraphMx\obj\Debug\GraphMx.csprojAssemblyReference.cache
+C:\Users\maxwe\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #2\GraphMx\GraphMx\obj\Debug\GraphMx.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #2\GraphMx\GraphMx\obj\Debug\GraphMx.exe
+C:\Users\maxwe\Desktop\My Documents\Coursera Courses\Data Structures and Algorithms\Coursera_DataStructAlgo\Course #2\GraphMx\GraphMx\obj\Debug\GraphMx.pdb
