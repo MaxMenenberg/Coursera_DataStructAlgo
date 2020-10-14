@@ -19,16 +19,16 @@ namespace GraphMx
             Debug.WriteLine("Edge Count: " + G.edgeCount);
             Debug.WriteLine(G.ToString());
 
-            List<NodeMx<int>> BFSNodes = BFS(G, 9);
-            for (int n = 0; n < BFSNodes.Count; n++) {
-                Debug.Write(BFSNodes[n].identifier + ", ");
+            List<NodeMx<int>> DFSNodes = DFS(G, 6);
+            for (int n = 0; n < DFSNodes.Count; n++) {
+                Debug.Write(DFSNodes[n].identifier + ", ");
             }
 
         }
 
         public static GraphMx<int> createTestGraph() {
             GraphMx<int> G = new GraphMx<int>();
-            for (int n = 0; n < 10; n++)
+            for (int n = 0; n < 12; n++)
             {
                 G.addNode(1);
             }
@@ -41,6 +41,8 @@ namespace GraphMx
             G.addConnection(G.nodes[3], G.nodes[4]);
             G.addConnection(G.nodes[3], G.nodes[5]);
             G.addConnection(G.nodes[4], G.nodes[5]);
+            G.addConnection(G.nodes[10], G.nodes[5]);
+            G.addConnection(G.nodes[11], G.nodes[5]);
 
             G.addConnection(G.nodes[6], G.nodes[7]);
             G.addConnection(G.nodes[7], G.nodes[8]);
@@ -71,6 +73,27 @@ namespace GraphMx
             }
             return foundNodes;
             
+        }
+
+        public static List<NodeMx<int>> DFS(GraphMx<int> G, int startNode) {
+            List<NodeMx<int>> foundNodes = new List<NodeMx<int>>();
+
+            NodeMx<int> s = G.nodes[startNode];
+            s.isVisited = true;
+            foundNodes.Add(s);
+
+            for (int n = 0; n < s.nodeEdges.Count; n++) {
+                NodeMx<int> v = s.nodeEdges[n].nodes[1];
+                if (v.isVisited == false)
+                {
+                    v.isVisited = true;
+                    List<NodeMx<int>> foundNodesTemp = DFS(G, v.identifier);
+                    foundNodes.AddRange(foundNodesTemp);
+                }
+
+            }
+
+            return foundNodes;
         }
     }
 }
